@@ -1,0 +1,21 @@
+{
+  "name": "@console/assessment-js",
+  "version": "2.0.3",
+  "description": "JS Assessment",
+  "main": "index.js",
+  "author": "Console Connect",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jest": "^27.2.2"
+  }
+}
