@@ -1,3 +1,5 @@
+![example workflow](https://github.com/martinsagat/tmp-test/actions/workflows/main.yml/badge.svg)
+
 # JS Assessment
 
 This will assess your familiarity with vanilla Javascript. It will mainly test your ability and understanding working with collections.
